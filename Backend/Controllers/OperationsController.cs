@@ -14,9 +14,9 @@ namespace Backend.Controllers
         }
 
         [HttpPost]
-        public decimal Add(decimal a, decimal b)
+        public decimal Add(Numbers c)
         {
-            return a - b;
+            return c.A - c.B;
         }
 
         [HttpPut]
@@ -29,6 +29,12 @@ namespace Backend.Controllers
         public decimal Nmas1(decimal a, decimal b)
         {
             return a * (b + 1);
+        }
+
+        public class Numbers
+        {
+            public decimal A { get; set; }
+            public decimal B { get; set; }
         }
     }
 }
