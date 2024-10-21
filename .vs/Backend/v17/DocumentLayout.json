@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jerem\\Desktop\\Universidad\\Ciclo IV\\Programacion II\\guias\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|c:\\users\\jerem\\desktop\\universidad\\ciclo iv\\programacion ii\\guias\\backend\\backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|c:\\users\\jerem\\desktop\\universidad\\ciclo iv\\programacion ii\\guias\\backend\\backend\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|c:\\users\\jerem\\desktop\\universidad\\ciclo iv\\programacion ii\\guias\\backend\\backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D5F8BDF-6E06-4BB0-BA36-EB05DA74FEAB}|Backend\\Backend.csproj|c:\\users\\jerem\\desktop\\universidad\\ciclo iv\\programacion ii\\guias\\backend\\backend\\controllers\\operationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\jerem\\Desktop\\Universidad\\Ciclo IV\\Programacion II\\guias\\Backend\\Backend\\Controllers\\Repository.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\Repository.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonaController.cs",
               "DocumentMoniker": "C:\\Users\\jerem\\Desktop\\Universidad\\Ciclo IV\\Programacion II\\guias\\Backend\\Backend\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "Backend\\Controllers\\PersonaController.cs",
               "ToolTip": "C:\\Users\\jerem\\Desktop\\Universidad\\Ciclo IV\\Programacion II\\guias\\Backend\\Backend\\Controllers\\PersonaController.cs",
               "RelativeToolTip": "Backend\\Controllers\\PersonaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T13:16:41.253Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Backend\\Controllers\\OperationsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T17:25:17.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T17:25:17.586Z"
             }
           ]
         }
